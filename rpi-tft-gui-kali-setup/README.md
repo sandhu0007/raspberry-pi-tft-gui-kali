@@ -83,4 +83,4 @@ Inside `katoolin3`, you can:
 
 ---
 
-Created with ❤️ by Veera & ChatGPT
+Created with ❤️ by sandhu
