@@ -1,0 +1,2 @@
+dtoverlay=pitft35-resistive,rotate=90,speed=20000000,fps=30
+#dtoverlay=vc4-kms-v3d
